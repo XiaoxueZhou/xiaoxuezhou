@@ -1,5 +1,11 @@
 ### **Carol Zhou**
 -----------------------------
+EDUCATION
+Tippie College of Business, University of Iowa      Anticipated May 2022
+<br/>
+•	B.B.A, Business Analytics and Information Systems
+<br/>
+•	B.B.A, Accounting 
 
 <!--
 **XiaoxueZhou/xiaoxuezhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
