@@ -1,7 +1,7 @@
 ### **Carol Zhou**
 -----------------------------
 EDUCATION
-Tippie College of Business, University of Iowa      Anticipated May 2022
+Tippie College of Business, University of Iowa       <p> Anticipated May 2022
 <br/>
 •	B.B.A, Business Analytics and Information Systems
 <br/>
