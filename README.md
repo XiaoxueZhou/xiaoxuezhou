@@ -7,6 +7,7 @@ Tippie College of Business, University of Iowa       <p> Anticipated May 2022
 <br/>
 •	B.B.A, Accounting 
 <br/>
+<p>
 Pronouns: she/her/hers
 
 <!--
