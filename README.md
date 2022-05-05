@@ -6,6 +6,8 @@ Tippie College of Business, University of Iowa       <p> Anticipated May 2022
 •	B.B.A, Business Analytics and Information Systems
 <br/>
 •	B.B.A, Accounting 
+<br/>
+Pronouns: she/her/hers
 
 <!--
 **XiaoxueZhou/xiaoxuezhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
